@@ -59,7 +59,7 @@ L’interface permet de gérer les informations des patients à travers :
 - Un bouton pour **supprimer un patient**
 - Une liste affichant tous les patients pour faciliter la gestion
 
-![Capture d'écran de l'application](./images/Capture1.PNG)
+![Capture d'écran de l'application](./images/Capture1.png)
 
 ### Onglet Consultations
 L’interface de gestion des consultations permet de :
@@ -70,7 +70,7 @@ L’interface de gestion des consultations permet de :
 - **Modifier les détails d’une consultation** existante
 - **Supprimer une consultation**
 
-![Capture d'écran de l'application](./images/Capture2.PNG)
+![Capture d'écran de l'application](./images/Capture2.png)
 
 ---
 
